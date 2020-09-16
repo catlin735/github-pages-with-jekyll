@@ -1,6 +1,7 @@
+---
 title: "Final Project Idea"
 date: 2020-09-16
-
+---
 User problem: Need to access and extract information from large sets of primary sources to understand trends in historical data.
 
 Users: Historians interested in the particular research niche that my primary source set covers.
